@@ -14,4 +14,5 @@ public class Configuracoes extends Fragment{
 				false);
 		return rootView;
 	}
+
 }
